@@ -31,7 +31,7 @@ const Hero = () => {
                     </div>
                     <div className="flex flex-wrap gap-2 justify-center items-center text-sm">
                         Google offers in:{' '}
-                        <div className="flex flex-wrap justify-center items-center gap-1 text-blue-800 ">
+                        <div className="flex flex-wrap justify-center items-center gap-1 text-blue-800">
                             <div>हिन्दी</div>
                             <div>বাংলা</div>
                             <div>తెలుగు</div>
